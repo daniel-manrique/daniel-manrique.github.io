@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Neuroscientist / Data Scientists</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Laboratory of Neurovascular Interactions</p>
+    <p>Université Laval</p>
+    <p>Quebec, Canada</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a neuroscientist focused on understanding glial reactivity following brain injury. While doing my doctoral studies at the [International Graduate School of Neuroscience\] at the Ruhr-University Bochum (https://www.ruhr-uni-bochum.de/igsn/), Germany, I realized that traditional analysis methodologies were not suitable to solve my research questions. Thus, I started to educate myself in statistical modeling using probabilistic approaches (Bayesian statistics) and developed a strong data science-based perspective. My current interests lies in unraveling the intricacies of brain scarring and recovery. I leverage a blend of modeling-based data analysis, machine learning, and image processing to dissect these complex processes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In addition, my foray into data analysis has led to the development of unbiased, automated image analysis techniques using Python and machine learning. These [approaches](https://medium.com/@damanrique) are particularly beneficial for researchers grappling with traditional, manual cell counting methods.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Finally, I am an ardent advocate for open and reproducible science. I firmly believe this approach is essential for maintaining quality control in scientific literature and ensuring effective oversight of scientific outputs. If my expertise aligns with your program's goals, please feel free to [contact me](mailto:danielmanriquecastano@gmail.com).
