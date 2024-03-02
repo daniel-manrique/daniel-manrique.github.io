@@ -31,7 +31,7 @@
       "endDate": "Current",
       "summary": "Research on pericyte reactivity and brain remodeling following cerebral ischemia",
       "highlights": ["Pericyte reactivity following ischeia, Point pattern analysis, Topological data analysis"]
-    }
+    },
     
     {
       "name": "Universidad San Buenaventura, Bogotá, Colombia",
@@ -41,17 +41,17 @@
       "endDate": "Current",
       "summary": "Research on pericyte reactivity and brain remodeling following cerebral ischemia",
       "highlights": ["Pericyte reactivity following ischeia, Point pattern analysis, Topological data analysis"]
-    }
+    },
     
     {
       "name": "Essen University Hospital, Essen, Germany",
       "position": "Doctoral researcher",
       "url": "https://neurosciencelab.uk-essen.de/",
-      "startDate": "2014-08-10",
+      "startDate": "2014-10-08",
       "endDate": "2020-10-26",
       "summary": "Research on extracellular matrix, neuroglial and immune response in mouse model of cerebral ischemia",
       "highlights": ["Neuroglial reactivity following ischeia, Extracellular matrix"]
-    }
+    },
     
     {
       "name": "Pontificia Universidad Javeriana, Cali, Colombia",
@@ -61,7 +61,7 @@
       "endDate": "2014-06-01",
       "summary": "Research on cortical and transcallosal neurCerebral ischemia"],
       "highlights": ["Cerebral ischemia"]
-    }
+    },
     
     {
       "name": "Hospital Departamental del Valle, Cali, Colombia",
@@ -73,6 +73,33 @@
       "highlights": ["Neuropsychological assesment"]
     }
   ],
+  
+   "education": [
+    {
+      "institution": "International Graduate School of Neuroscience, Ruhr Univeristy Bochum",
+      "location": "Bochum, Germany",
+      "url": "https://www.ruhr-uni-bochum.de/igsn/",
+      "area": "Neuroscience",
+      "studyType": "PhD",
+      "startDate": "2014-10-08",
+      "endDate": "2020-10-26",
+      "score": "Magna Cum Laude",
+      "courses": ["Cellular neuroscience, neuropathology"]
+    },
+    
+    {
+      "institution": "Pontificia Universidad Javeriana",
+      "location": "Cali, Colombia",
+      "url": "https://www.javerianacali.edu.co/",
+      "area": "Psychology",
+      "studyType": "Bachelor",
+      "startDate": "2009-01-01",
+      "endDate": "2013-05-16",
+      "score": "4.6/5.0",
+      "courses": ["Psychology"]
+    }
+  ],
+  
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -84,19 +111,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
+ 
   "awards": [
     {
       "title": "Nobel Prize in Physics",
