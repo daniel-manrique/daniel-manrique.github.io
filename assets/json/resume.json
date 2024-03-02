@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Manrique-Castano",
-    "label": "Scientist",
+    "label": "Neuroscientists / Data scientits",
     "image": "",
     "email": "danielmanriquecastano@gmail.com",
-    "phone": "(912) 123-4567",
+    "LinkedIn": "https://www.linkedin.com/in/danielmanriquecastano/",
     "url": "https://daniel-manrique.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am a neuroscientist focused on understanding glial reactivity following brain injury. To address these issues, I rely on image processing tools and statistical modeling using Python and R. I am an ardent advocate for open and reproducible science, and a dedcitaed educator in good research practices and research data managemen. Science communication and my recent foray into project management complement my skill set.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,20 +17,20 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "danielneuroglia",
+        "url": "https://twitter.com/danielneuroglia"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Univeristy Laval, Canada",
+      "position": "Postdoctoral fellow",
+      "url": "https://elalilab.com/",
+      "startDate": "2020-12-01",
+      "endDate": "2024-08-31",
+      "summary": "Research on pericyte reactivity and brain remodeling following cerebral ischemia",
+      "highlights": ["Pericyte reactivity, Point Pattern Analysis"]
     }
   ],
   "volunteer": [
