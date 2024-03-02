@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Daniel Manrique-Castano",
-    "label": "Neuroscientists / Data scientits",
+    "label": "Neuroscientists / Data scientist",
     "image": "",
     "email": "danielmanriquecastano@gmail.com",
     "LinkedIn": "https://www.linkedin.com/in/danielmanriquecastano/",
@@ -24,13 +24,53 @@
   },
   "work": [
     {
-      "name": "Univeristy Laval, Canada",
+      "name": "Univeristy Laval, Quebec, Canada",
       "position": "Postdoctoral fellow",
       "url": "https://elalilab.com/",
       "startDate": "2020-12-01",
-      "endDate": "2024-08-31",
+      "endDate": "Current",
       "summary": "Research on pericyte reactivity and brain remodeling following cerebral ischemia",
-      "highlights": ["Pericyte reactivity, Point Pattern Analysis"]
+      "highlights": ["Pericyte reactivity following ischeia, Point pattern analysis, Topological data analysis"]
+    }
+    
+    {
+      "name": "Universidad San Buenaventura, Bogotá, Colombia",
+      "position": "Lecturer in the PhD program in Applied Neuroscience and Behavior",
+      "url": "https://www.usbbog.edu.co/facultades/facultad-de-psicologia/doctorado-en-neurociencia-aplicada-y-comportamiento/",
+      "startDate": "2024-03-01",
+      "endDate": "Current",
+      "summary": "Research on pericyte reactivity and brain remodeling following cerebral ischemia",
+      "highlights": ["Pericyte reactivity following ischeia, Point pattern analysis, Topological data analysis"]
+    }
+    
+    {
+      "name": "Essen University Hospital, Essen, Germany",
+      "position": "Doctoral researcher",
+      "url": "https://neurosciencelab.uk-essen.de/",
+      "startDate": "2014-08-10",
+      "endDate": "2020-10-26",
+      "summary": "Research on extracellular matrix, neuroglial and immune response in mouse model of cerebral ischemia",
+      "highlights": ["Neuroglial reactivity following ischeia, Extracellular matrix"]
+    }
+    
+    {
+      "name": "Pontificia Universidad Javeriana, Cali, Colombia",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2014-06-01",
+      "summary": "Research on cortical and transcallosal neurCerebral ischemia"],
+      "highlights": ["Cerebral ischemia"]
+    }
+    
+    {
+      "name": "Hospital Departamental del Valle, Cali, Colombia",
+      "position": "Neuropsychologist",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Neuropsychological assessment to hospitalized and outpatients in the neurosurgery unit"]
+      "highlights": ["Neuropsychological assesment"]
     }
   ],
   "volunteer": [
