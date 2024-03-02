@@ -28,19 +28,19 @@
       "position": "Postdoctoral fellow",
       "url": "https://elalilab.com/",
       "startDate": "2020-12-01",
-      "endDate": "Current",
+      "endDate": "2024",
       "summary": "Research on pericyte reactivity and brain remodeling following cerebral ischemia",
       "highlights": ["Pericyte reactivity following ischeia, Point pattern analysis, Topological data analysis"]
     },
     
     {
       "name": "Universidad San Buenaventura, Bogotá, Colombia",
-      "position": "Lecturer in the PhD program in Applied Neuroscience and Behavior",
+      "position": "Lecturer",
       "url": "https://www.usbbog.edu.co/facultades/facultad-de-psicologia/doctorado-en-neurociencia-aplicada-y-comportamiento/",
       "startDate": "2024-03-01",
-      "endDate": "Current",
-      "summary": "Research on pericyte reactivity and brain remodeling following cerebral ischemia",
-      "highlights": ["Pericyte reactivity following ischeia, Point pattern analysis, Topological data analysis"]
+      "endDate": "2024",
+      "summary": "Lecturer in the PhD program in Applied Neuroscience and Behavior. Research design, research data management, data analysis, scientific writing",
+      "highlights": ["Research design, RDM, Data analysis"]
     },
     
     {
@@ -102,23 +102,67 @@
   
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "School of Astronomy of Cali",
+      "position": "President / member",
+      "location": "Cali, Colombia",
+      "url": "http://escueladeastronomiadecali.com/",
+      "startDate": "2009-05-01",
+      "endDate": "2024",
+      "summary": "President (2010-20121) and member of this association focused on the dissemination of astronomy and other natural sciences in Colombia.",
+      "highlights": ["Porject management, Science communication, teaching"]
+    },
+    
+    {
+      "organization": "Hanan Pacha Academy",
+      "position": "Member",
+      "location": "Chile",
+      "url": "https://academiahananpacha.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2024",
+      "summary": "Member of this association focused on science education in schools and institutions in low-income Latin-american countries",
+      "highlights": ["Porject management, Science communication, teaching"]
     }
   ],
  
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Postdoctoral fellowship",
+      "date": "2022-05-01",
+      "awarder": "Fond de recherche du Québec",
+      "url": "https://frq.gouv.qc.ca/",
+      "summary": "Competitive postdoctoral fellowship to perform research on the effects of KLF4 in pericyte reactivity following brain injury"
+    },
+    
+    {
+      "title": "Doctoral scholarship",
+      "date": "2014-10-08",
+      "awarder": "International Graduate School of Neuroscience",
+      "url": "https://frq.gouv.qc.ca/",
+      "summary": "Competitive doctoral scholarship to perform the doctoral program in neuroscience at the International Graduate School of Neuroscience (IGSN)"
+    },
+    
+    {
+      "title": "Order of Javeriano Academic Merit",
+      "date": "2013-05-18",
+      "awarder": "Pontificia Universidad Javeriana",
+      "url": "https://www.javeriana.edu.co/estudia-en-la-javeriana/becas-excelencia-academica",
+      "summary": "Honor/meritorious degree after completing the bachelor program in Psychology"
+    },
+    
+    {
+      "title": "First place in Biology essay",
+      "date": "2013-2014",
+      "awarder": "Fondo de Cultura Económica (Mexico)",
+      "url": "http://www.lacienciaparatodos.mx/",
+      "summary": "First place in Biology essay in the XIII National & V Iberoamerican contest"
+    },
+    
+    {
+      "title": "First place in Physics essay",
+      "date": "2011-2012",
+      "awarder": "Fondo de Cultura Económica (Mexico)",
+      "url": "http://www.lacienciaparatodos.mx/",
+      "summary": "First place in Physics essay in the XII National & IV Iberoamerican contest"
     }
   ],
   "certificates": [
