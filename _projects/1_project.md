@@ -23,4 +23,3 @@ I am exploring ways to incorporate Point patterns analysis (PPA) for the analysi
 
 You can check this [prepint](https://www.biorxiv.org/content/10.1101/2023.10.04.560910v1) with its corresponding [repository](https://github.com/daniel-manrique/Stroke_GlialScar_PPA-TDA) or the protocol develped for StarProtocols (Cell Press) and its corresponding [repository](https://github.com/daniel-manrique/StarProtocol_PPA)
 
-{% endraw %}
