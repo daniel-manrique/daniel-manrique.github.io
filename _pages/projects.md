@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Professional projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My collection of profesional projects including original research, writing and collaborative work.
 nav: true
 nav_order: 3
 display_categories: [work, fun]

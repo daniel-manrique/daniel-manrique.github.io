@@ -1,14 +1,14 @@
 ---
 layout: page
-title: PPA for neuroscience
-description: Point pattern analysis (PPA) for neuroscience
+title: Point pattern analysis (PPA) for neuroscience
+description: Implementation of Point pattern analysis (PPA) to examine the spatial arrangement/distribution of cells. 
 img: assets/img/Pointanalysis.png
 importance: 1
-category: work
+category: Data analysis
 related_publications: true
 ---
 
-I am exploring ways to incorporate Point patterns analysis (PPA) for the analysis of microscopy images in neuroscience. This allows investigation the spatial arrangement of cells like neurons and neuroglia in healthy and disease conditions. To achieve this goal I meanly implement to spatstat package in R-programming language. 
+I am exploring ways to incorporate Point patterns analysis (PPA) for the analysis of microscopy images in neuroscience. PPA allows the investigation of the spatial arrangement/distribution of cells, like neurons and neuroglia, in the healthy and disease central nervous system. Indeed, it has application in multiple biomedical fields. I perform point pattern analysis using the [spatstat](https://spatstat.org/download.html) package in R-programming language. 
 
 
 <div class="row">
@@ -21,5 +21,5 @@ I am exploring ways to incorporate Point patterns analysis (PPA) for the analysi
 </div>
 
 
-You can check this [prepint](https://www.biorxiv.org/content/10.1101/2023.10.04.560910v1) with its corresponding [repository](https://github.com/daniel-manrique/Stroke_GlialScar_PPA-TDA) or the protocol develped for StarProtocols (Cell Press) and its corresponding [repository](https://github.com/daniel-manrique/StarProtocol_PPA)
+A first approach is available in this [prepint](https://www.biorxiv.org/content/10.1101/2023.10.04.560910v1) and its corresponding [repository](https://github.com/daniel-manrique/Stroke_GlialScar_PPA-TDA). I also developed a protocol for Star Protocols (Cell Press) and its corresponding [repository](https://github.com/daniel-manrique/StarProtocol_PPA). If you have any ideas or want to implement this approach to your research, please feel free to contact me.
 
