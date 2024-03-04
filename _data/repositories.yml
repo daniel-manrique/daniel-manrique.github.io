@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - daniel-manrique
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - daniel-manrique/daniel-manrique.github.io
+  - Stroke_PDGFR-B_Reactivity 
+  - StarProtocol_PPA
+  - Stroke_GlialScar_PPA-TDA
