@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Others
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Publications
+  - title: Books
     permalink: /publications/
   - title: divider
-  - title: Projects
+  - title: Journalism
     permalink: /projects/
   - title: divider
-  - title: Blog
+  - title: YouTube
     permalink: /blog/
 ---

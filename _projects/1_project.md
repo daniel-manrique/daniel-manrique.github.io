@@ -9,7 +9,6 @@ category: image analysis
 
 I am exploring ways to incorporate Point patterns analysis (PPA) for the analysis of microscopy images in neuroscience. PPA allows the investigation of the spatial arrangement/distribution of cells, like neurons and neuroglia, in the healthy and disease central nervous system. Indeed, it has application in multiple biomedical fields. I perform point pattern analysis using the [spatstat](https://spatstat.org/download.html) package in R-programming language. 
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Pointanalysis.png" title="PPA" class="img-fluid rounded z-depth-1" %}
