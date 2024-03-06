@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Point pattern analysis (PPA) for neuroscience
-description: Implementation of Point pattern analysis (PPA) to examine the spatial arrangement/distribution of cells. 
+description: Point pattern analysis (PPA) to examine the spatial arrangement/distribution of cells. 
 img: assets/img/Pointanalysis.png
-importance: 1
-category: image analysis
+importance: 2
+category: Image analysis
 ---
 
 I am exploring ways to incorporate Point patterns analysis (PPA) for the analysis of microscopy images in neuroscience. PPA allows the investigation of the spatial arrangement/distribution of cells, like neurons and neuroglia, in the healthy and disease central nervous system. Indeed, it has application in multiple biomedical fields. I perform point pattern analysis using the [spatstat](https://spatstat.org/download.html) package in R-programming language. 
