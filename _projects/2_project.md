@@ -4,7 +4,7 @@ title: Topological data analysis for neuroscience
 description: Topological Data Analysis (TDA) to examine topological features of point clouds. 
 img: assets/img/TDAimg.jpg
 importance: 3
-category: Image analysis
+category: Image and data analysis
 ---
 
 Topological data analysis (TDA) is an approach that uses algebraic topology to analyze complex data sets, including point clouds. With TDA, the user can evaluate the degree of noise, variability, and complexity, as well as identifying topological features such as holes, loops, and voids in the point clouds at different scales. This approach is based on tools like vietoris-rips complexes and persistent homology that allow to visualize complex topological structures.
