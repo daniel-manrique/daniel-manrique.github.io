@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Books
-    permalink: /publications/
+    permalink: /about_books/
   - title: divider
   - title: Journalism
     permalink: /projects/
