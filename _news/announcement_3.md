@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-03-07 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'll start lecturing on research design and data management for the doctoral program in **Applied and Behavioral Neuroscience** at Universidad San Buenaventura, Bogotá (Colombia).

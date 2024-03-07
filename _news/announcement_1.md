@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-02-06 15:59:00-0400
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+I open my account on Medium and published my first [blog post](https://medium.com/@damanrique/beyond-the-mean-embracing-uncertainty-in-measurements-with-multilevel-modeling-2bde9d521736). 
