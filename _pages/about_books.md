@@ -14,7 +14,8 @@ profiles:
     content: about_fundamentos.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>[Summary](https://grupoalmuzara.com/libro/9788494471759_ficha.pdf)**In Spanish**</p>
-      <p>[Buy in Amazon](https://www.amazon.com/-/es/Daniel-Manrique-Casta%C3%B1o/dp/8494471759)</p>
       <p>Editorial Almuzara</p>
+      [Summary](https://grupoalmuzara.com/libro/9788494471759_ficha.pdf)**In Spanish**
+      [Buy in Amazon](https://www.amazon.com/-/es/Daniel-Manrique-Casta%C3%B1o/dp/8494471759)
+      
 ---
