@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /books/
+permalink: /about_books/
 title: Books
 description: Books I have published
 nav: true
