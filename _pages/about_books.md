@@ -15,5 +15,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Editorial Almuzara</p>
+      <p>Popular science book</p>
     
 ---
