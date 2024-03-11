@@ -5,6 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: Collaborators
+    permalink: /people/
+  - title: divider
   - title: Talks
     permalink: /teaching/
   - title: divider
@@ -16,6 +19,5 @@ children:
   - title: divider
   - title: YouTube
     permalink: /blog/
-
   
 ---

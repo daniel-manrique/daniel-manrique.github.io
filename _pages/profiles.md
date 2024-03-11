@@ -1,10 +1,9 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: Collaborators
 description: Scientists and academics I collaborate with
-nav: true
-nav_order: 7
+nav: false
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
