@@ -3,8 +3,7 @@ layout: profiles
 permalink: /about_books/
 title: Books
 description: Books I have published
-nav: true
-nav_order: 7
+nav: false
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

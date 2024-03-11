@@ -5,6 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: Talks
+    permalink: /teaching/
+  - title: divider
   - title: Books
     permalink: /about_books/
   - title: divider
@@ -13,4 +16,6 @@ children:
   - title: divider
   - title: YouTube
     permalink: /blog/
+
+  
 ---
