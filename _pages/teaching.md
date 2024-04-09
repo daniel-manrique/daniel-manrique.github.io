@@ -9,7 +9,7 @@ nav_order: 6
 
 ### Design and data management for research
 
-[Doctoral program in Appliend and behavioral Neuroscience](https://www.usbbog.edu.co/facultades/facultad-de-psicologia/doctorado-en-neurociencia-aplicada-y-comportamiento/) \
+**Doctoral program in Appliend and behavioral Neuroscience** \
 **Universidad San Buenaventura (Bogotá, Colombia)** \
 **Date:** March 2024 - 
 
