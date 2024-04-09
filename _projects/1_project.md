@@ -19,5 +19,5 @@ I am exploring ways to incorporate Point patterns analysis (PPA) for the analysi
 </div>
 
 
-A first approach is available in this [prepint](https://www.biorxiv.org/content/10.1101/2023.10.04.560910v1) and its corresponding [repository](https://github.com/daniel-manrique/Stroke_GlialScar_PPA-TDA). I also developed a protocol for Star Protocols (Cell Press) and its corresponding [repository](https://github.com/daniel-manrique/StarProtocol_PPA). If you have any ideas or want to implement this approach to your research, please feel free to contact me.
+A first approach is available in this [prepint](https://www.biorxiv.org/content/10.1101/2023.10.04.560910v1) and its corresponding [repository](https://github.com/daniel-manrique/Stroke_GlialScar_PPA-TDA). I also developed a [protocol](https://www.sciencedirect.com/science/article/pii/S2666166724001540) for Star Protocols (Cell Press) and its corresponding [repository](https://github.com/daniel-manrique/StarProtocol_PPA). If you have any ideas or want to implement this approach to your research, please feel free to contact me.
 
