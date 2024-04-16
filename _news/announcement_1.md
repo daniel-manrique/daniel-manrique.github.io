@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I open my account on Medium and published my first [blog post](https://medium.com/@damanrique/beyond-the-mean-embracing-uncertainty-in-measurements-with-multilevel-modeling-2bde9d521736). 
+I open my account on Medium and published my first [blog post](https://medium.com/@damanrique/beyond-the-mean-embracing-uncertainty-in-measurements-with-multilevel-modeling-2bde9d521736).

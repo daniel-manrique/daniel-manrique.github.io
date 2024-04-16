@@ -7,6 +7,3 @@ redirect: https://medium.com/@damanrique
 importance: 1
 category: Image and data analysis
 ---
-
-
-

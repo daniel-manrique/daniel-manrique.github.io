@@ -15,5 +15,4 @@ profiles:
     more_info: >
       <p>Editorial Almuzara</p>
       <p>Popular science book</p>
-    
 ---

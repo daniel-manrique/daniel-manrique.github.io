@@ -19,5 +19,4 @@ children:
   - title: divider
   - title: YouTube
     permalink: /blog/
-  
 ---
