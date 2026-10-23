@@ -24,7 +24,7 @@ nav_order: 6
 
 ### Introduction to neuroscience
 
-**[Escuela de astronomía de Cali (Cali, Colombia)](http://escueladeastronomiadecali.com/nosotros/)** \
+**[Escuela de astronomía de Cali (Cali, Colombia)](https://escueladeastronomiadecali.com/nosotros/)** \
 **Date:** September 2023
 
 **Summary:** This course provides and introduction to neuroscience for students of different disciplines including biology, psychology, engineering and physics. It covers basic neuroanatomy and cell biology,together with broad functional trends of the central nervous system. the course also addressees the main neuroscience fields with its research methods and challenges.
