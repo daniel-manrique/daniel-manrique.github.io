@@ -22,7 +22,7 @@ I am a Research Data Curator at the [Digital Research Alliance of Canada](https:
 
 In addition, my foray into data analysis has led to the development of unbiased, automated image analysis techniques using Python and machine learning. These [approaches](https://medium.com/@damanrique) are particularly beneficial for researchers grappling with traditional, manual cell counting methods.
 
-Finally, I am an ardent advocate for open and reproducible science. I firmly believe this approach is essential for maintaining quality control in scientific literature and ensuring effective oversight of scientific outputs. If my expertise aligns with your program's goals, please feel free to [contact me](mailto:danielmanriquecastano@gmail.com).
+Finally, I am an ardent advocate for open and reproducible science. I firmly believe this approach is essential for maintaining quality control in scientific literature and ensuring effective oversight of scientific outputs. If my expertise aligns with your program's goals, please feel free to [contact me](mailto:dmanriquecastano@gmail.com).
 
 ## Research interests
 
@@ -39,6 +39,7 @@ Finally, I am an ardent advocate for open and reproducible science. I firmly bel
 - Articles on data analysis and science: [Medium](https://medium.com/@damanrique)
 - Technical tutorials on Bayesian modeling and spatial analysis: [Towards Data Science](https://towardsdatascience.com/author/damanrique/) and the [Tutorials](/tutorials/) page
 - Free course materials on research data management and statistical modeling: [Teaching & Training](/teaching/)
+- Consulting and training in data management and analysis: [Work with me](/work-with-me/) (InDepth)
 - Code and analysis pipelines: [GitHub](https://github.com/daniel-manrique)
 - Publications: [Google Scholar](https://scholar.google.com/citations?user=c1kI9gUAAAAJ) and [ORCID](https://orcid.org/0000-0002-1912-1764)
 - Popular science book on cosmology: [Fundamentos de cosmología](/about_books/)
