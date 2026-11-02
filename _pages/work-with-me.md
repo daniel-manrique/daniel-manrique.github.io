@@ -36,8 +36,8 @@ Projects are remote and reproducible: you receive the code, documentation and da
 
 ## See my work first
 
-- Free course materials: [Teaching & Training](/teaching/)
-- Practical guides with code: [Tutorials](/tutorials/)
+- Free course materials: [Teaching & Tutorials](/teaching/)
+- Practical guides with code: [Tutorials](/teaching/#tutorials)
 - Research output: [Publications](/publications/)
 
 ## Get in touch
