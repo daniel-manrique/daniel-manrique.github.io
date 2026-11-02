@@ -1,11 +1,15 @@
-github_users:
-  - daniel-manrique
-
 github_repos:
-  - daniel-manrique/MediumBlog
-  - daniel-manrique/TDS-Medium_Blog
-  - indepth-data/DataScience_Teaching
-  - daniel-manrique/daniel-manrique.github.io
-  - daniel-manrique/Stroke_PDGFR-B_Reactivity
-  - daniel-manrique/StarProtocol_PPA
-  - daniel-manrique/Stroke_GlialScar_PPA-TDA
+  - name: daniel-manrique/TDS-Medium_Blog
+    description: Code and data behind my Towards Data Science and Medium tutorials (Bayesian regression with brms, spatial analysis of cells).
+  - name: indepth-data/DataScience_Teaching
+    description: Open course materials on research data management and data analysis (InDepth).
+  - name: daniel-manrique/Stroke_PDGFR-B_Reactivity
+    description: Analysis code for the study of PDGFR-B reactivity after stroke.
+  - name: daniel-manrique/Stroke_GlialScar_PPA-TDA
+    description: Analysis code for glial scar formation after stroke, including topological data analysis.
+  - name: daniel-manrique/StarProtocol_PPA
+    description: Companion code for the STAR Protocols paper on the photothrombotic stroke model and analysis.
+  - name: daniel-manrique/MediumBlog
+    description: Earlier materials for my Medium articles.
+  - name: daniel-manrique/daniel-manrique.github.io
+    description: Source of this website (Jekyll, al-folio theme).

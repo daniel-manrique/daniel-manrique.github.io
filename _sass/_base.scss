@@ -1118,3 +1118,13 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
+
+// Keep each menu entry on one line instead of wrapping words
+.navbar .navbar-nav .nav-link {
+  white-space: nowrap;
+}
+
+// Project category headings were nearly invisible (divider colour)
+.projects h2.category {
+  color: var(--global-text-color-light);
+}

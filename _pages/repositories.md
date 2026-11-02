@@ -2,46 +2,23 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: This page post the repositories I developed for the labs I have worked with or for my own.
-nav: true
-nav_order: 5
+description: Code, data and teaching materials behind my research, tutorials and courses. Everything is open on GitHub.
+nav: false
 ---
 
-## GitHub users
+<p><a href="https://github.com/{{ site.github_username }}"><i class="fa-brands fa-github"></i> github.com/{{ site.github_username }}</a></p>
 
-{% if site.data.repositories.github_users %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="row row-cols-1 row-cols-md-2">
   {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
+  <div class="col mb-4">
+    <a href="https://github.com/{{ repo.name }}" class="text-decoration-none">
+      <div class="card hoverable h-100">
+        <div class="card-body">
+          <h5 class="card-title"><i class="fa-brands fa-github fa-sm"></i> {{ repo.name }}</h5>
+          <p class="card-text">{{ repo.description }}</p>
+        </div>
+      </div>
+    </a>
+  </div>
   {% endfor %}
 </div>
-{% endif %}

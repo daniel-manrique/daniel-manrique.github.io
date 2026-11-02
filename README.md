@@ -17,7 +17,7 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | Teaching & Training (open course materials from the InDepth repo, courses taught) | `_pages/teaching.md` |
 | Tutorials (Towards Data Science / Medium guides, linked to the code in [TDS-Medium_Blog](https://github.com/daniel-manrique/TDS-Medium_Blog)) | `_pages/tutorials.md` (add each new published guide here) |
 | Books and collaborators | `_pages/about_books.md`, `_pages/profiles.md` and the `about_*.md` files they include |
-| Repositories shown on the Repositories page | `_data/repositories.yml` |
+| Repositories page (under Others; name + description per repo, rendered locally) | `_data/repositories.yml` |
 | CV | `_data/cv.yml` and `assets/pdf/Daniel Manrique-CV.pdf` (**`cv.yml` still holds the theme's placeholder data and needs to be filled in**) |
 | Navigation menu | `nav` / `nav_order` in each page's front matter; extra entries in `_pages/dropdown.md` |
 | Blog | Posts are pulled from [Medium](https://medium.com/@damanrique) through `external_sources` in `_config.yml`; local posts would go in `_posts/` |

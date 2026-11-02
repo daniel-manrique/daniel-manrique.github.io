@@ -7,6 +7,8 @@ dropdown: true
 children:
   - title: Collaborators
     permalink: /people/
+  - title: Repositories
+    permalink: /repositories/
   - title: divider
   - title: Books
     permalink: /about_books/
