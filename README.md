@@ -20,7 +20,7 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | Navigation menu | `nav` / `nav_order` in each page's front matter; extra entries in `_pages/dropdown.md` |
 | Blog | Posts are pulled from [Medium](https://medium.com/@damanrique) through `external_sources` in `_config.yml`; local posts would go in `_posts/` |
 
-Images live in `assets/img/` and are converted to responsive WebP at build time.
+Images live in `assets/img/` and are served as-is. Responsive WebP generation (`imagemagick.enabled` in `_config.yml`) is off because the GitHub Actions runner does not produce the `-480/-800/-1400.webp` files, which left images broken.
 
 ## Pending configuration
 
