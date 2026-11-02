@@ -23,7 +23,11 @@ module ExternalPosts
             doc.data['external_source'] = src['name'];
             doc.data['feed_content'] = e.content;
             doc.data['title'] = "#{e.title}";
-            doc.data['description'] = e.summary;
+            # Medium summaries embed a full-width <img>; keep the blog list text-only
+            doc.data['description'] = e.summary.to_s
+              .gsub(%r{<figure.*?</figure>}m, '')
+              .gsub(/<img[^>]*>/i, '')
+              .strip;
             doc.data['date'] = e.published;
             doc.data['redirect'] = e.url;
             site.collections['posts'].docs << doc
