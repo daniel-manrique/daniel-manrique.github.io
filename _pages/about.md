@@ -37,7 +37,8 @@ Finally, I am an ardent advocate for open and reproducible science. I firmly bel
 ## Find me elsewhere
 
 - Articles on data analysis and science: [Medium](https://medium.com/@damanrique)
-- Technical tutorials on Bayesian modeling and spatial analysis: [Towards Data Science](https://towardsdatascience.com/author/damanrique/)
+- Technical tutorials on Bayesian modeling and spatial analysis: [Towards Data Science](https://towardsdatascience.com/author/damanrique/) and the [Tutorials](/tutorials/) page
+- Free course materials on research data management and statistical modeling: [Teaching & Training](/teaching/)
 - Code and analysis pipelines: [GitHub](https://github.com/daniel-manrique)
 - Publications: [Google Scholar](https://scholar.google.com/citations?user=c1kI9gUAAAAJ) and [ORCID](https://orcid.org/0000-0002-1912-1764)
 - Popular science book on cosmology: [Fundamentos de cosmología](/about_books/)

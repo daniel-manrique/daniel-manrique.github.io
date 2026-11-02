@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: My collection of professional projects including original research, writing and collaborative work.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [Neuroscience research, Image and data analysis, Data visualization]
 horizontal: false
 ---

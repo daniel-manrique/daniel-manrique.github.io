@@ -13,7 +13,8 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | News items on the home page | `_news/announcement_N.md` (one file per item, dated in the front matter) |
 | Publications | `_bibliography/papers.bib` (add `selected={true}` to show an entry on the home page; PDFs go in `assets/pdf/`) |
 | Projects | `_projects/N_project.md` (`category` must be listed in `display_categories` in `_pages/projects.md`) |
-| Teaching | `_pages/teaching.md` |
+| Teaching & Training (open course materials from the InDepth repo, courses taught) | `_pages/teaching.md` |
+| Tutorials (Towards Data Science / Medium guides, linked to the code in [TDS-Medium_Blog](https://github.com/daniel-manrique/TDS-Medium_Blog)) | `_pages/tutorials.md` (add each new published guide here) |
 | Books and collaborators | `_pages/about_books.md`, `_pages/profiles.md` and the `about_*.md` files they include |
 | Repositories shown on the Repositories page | `_data/repositories.yml` |
 | CV | `_data/cv.yml` and `assets/pdf/Daniel Manrique-CV.pdf` (**`cv.yml` still holds the theme's placeholder data and needs to be filled in**) |

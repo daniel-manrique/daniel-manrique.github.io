@@ -1,11 +1,29 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Courses I taught in the last five years.
+title: Teaching & Training
+description: Open course materials and the courses I have taught.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
+
+## Open course materials
+
+Free, self-paced materials on research data management and statistical modeling, created under the *InDepth Data Science Consulting* label and shared under a CC-BY license. They are built with Quarto, are fully reproducible and come with companion files on the Open Science Framework.
+
+{% include figure.liquid loading="eager" path="assets/img/InDepth_Logo_hex.png" alt="InDepth logo" class="img-fluid" max-width="140px" %}
+
+| Module | What you will learn |
+| --- | --- |
+| [Setup R, RStudio and repositories](https://daniel-manrique.quarto.pub/rdm-datascience/R-studioRepositories.html) | A reproducible working environment with R, Python, Git and GitHub. |
+| [Research data management](https://daniel-manrique.quarto.pub/rdm-datascience/RDM/RDM-index.html) | Why RDM matters, organizing files and tables, working with images, and sharing data following FAIR principles. |
+| [Principles of statistical modeling](https://daniel-manrique.quarto.pub/rdm-datascience/Modeling/Modeling-index.html) | Handling data tables, exploratory analysis, fitting models and checking their diagnostics. |
+
+[Open the full course site](https://daniel-manrique.quarto.pub/rdm-datascience/) &middot; [OSF materials](https://osf.io/cngt3/) &middot; [Source on GitHub](https://github.com/indepth-data/DataScience_Teaching)
+
+For hands-on, step-by-step statistics and data analysis guides, see the [Tutorials](/tutorials/) page.
+
+## Courses
 
 ### Design and data management for research
 
